@@ -1,0 +1,27 @@
+body {
+  background-color: #e0ebe8;
+  margin-left: 40px;
+}
+td {
+  padding: 6px;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #008B8B
+}
+
+h3 {
+  color: #20B2AA
+}
+
+.tab1{
+  padding-right: 10em;
+}
